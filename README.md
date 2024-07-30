@@ -1,8 +1,8 @@
 # Machine Learning Project
 ### Team members:
-- Makdour Salah Eddine.
-- Chellal Abdelhak.
-- Baaziz Mohammed Chaker.
+- Salah Eddine Makdour.
+- Abdelhak Chellal.
+- Mohammed Chaker Baaziz.
 
 # Abstract
 
@@ -284,4 +284,17 @@ This project successfully demonstrated the application of various machine learni
 - Data analysis
 - Feature engineering
 - Report Writing
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any questions or inquiries, please contact feel free to contact us 
+(drop a mail to:  salah-eddine.makdour@ensia.edu.dz, mohammed.baaziz@ensia.edu.dz, abdelhak.chellal@ensia.edu.dz).
 
